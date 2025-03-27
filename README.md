@@ -1,4 +1,4 @@
-# My_DevOps_Portfolio_RoyceB
+# My_DevOps_Portfolio_RoyceBilliot
 
 A curated list of hands-on projects demonstrating modern DevOps practices using cloud-native tooling.
 
@@ -18,4 +18,3 @@ A curated list of hands-on projects demonstrating modern DevOps practices using 
 - [Serverless App] (https://
 - [Chaos Engineering Lab] (https://
 - [Cost Optimization Dashboard] (https://
-- 
