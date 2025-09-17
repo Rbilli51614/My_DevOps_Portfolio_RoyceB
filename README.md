@@ -3,14 +3,14 @@
 A curated list of hands-on projects demonstrating modern DevOps practices using cloud-native tooling.
 
 ## Highlights
-- Infrastructure as Code with Terraform
+- Multi-Cloud Infrastructure as Code with Terraform
 - CI/CD Pipelines using GitHub Actions, Jenkins, & Kubernetes
 - Monitoring, Logging, & Observability with Prometheus, Grafana, & Loki
 - GitOps with ArgoCD
 - Chaos Engineering experiments
 
 ## Projects
-- [AWS Infra with Terraform] (https://github.com/Rbilli51614/aws-infra-terraform)
+- [AWS - GCP Infra with Terraform] (https://github.com/Rbilli51614/aws-infra-terraform)
 - [CI/CD Pipeline] (https://
 - [Kubernetes Cluster & App Deployment] (https://
 - [Observability Stack] (https://
