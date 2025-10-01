@@ -10,7 +10,7 @@ A curated list of hands-on projects demonstrating modern DevOps practices using 
 - Chaos Engineering experiments
 
 ## Projects
-- [AWS - GCP Infra with Terraform] (https://)
+- [AWS - GCP Infra with Terraform] ([https://](https://github.com/Rbilli51614/Multi-Cloud-Iaac.git)
 - [CI/CD Pipeline] (https://
 - [Kubernetes Cluster & App Deployment] (https://
 - [Observability Stack] (https://
