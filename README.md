@@ -3,18 +3,19 @@
 A curated list of hands-on projects demonstrating modern DevOps practices using cloud-native tooling.
 
 ## Highlights
-- Multi-Cloud Infrastructure as Code with Terraform
-- CI/CD Pipelines using GitHub Actions, Jenkins, & Kubernetes
-- Monitoring, Logging, & Observability with Prometheus, Grafana, & Loki
-- GitOps with ArgoCD
-- Chaos Engineering experiments
+- Cloud Infrastructure & Automation (Terraform + Cloud)
+- DevOps & Kubernetes
+- Python + Bash Projects  
+- Agentic AI + Cloud
+- End-to-End Showcase Project
 
 ## Projects
 - [AWS - GCP Infra with Terraform] (https://github.com/Rbilli51614/Multi-Cloud-Iaac.git)
 - [Terraform Modules Library] (https://github.com/Rbilli51614/terraform-modules-library.git)
-- [Kubernetes Cluster & App Deployment] (https://
-- [Observability Stack] (https://
-- [GitOps Workflow] (https://
-- [Serverless App] (https://
-- [Chaos Engineering Lab] (https://
-- [Cost Optimization Dashboard] (https://
+- [CI/CD with Jenkins + Kubernetes] (https://
+- [Monitoring with Prometheus + Grafana] (https://
+- [Cloud Cost Analyzer] (https://
+- [ChatOps Bot for Cloud Deployment] (https://
+- [AI-Powered Cloud Troubleshooter] (https://
+- [Serverless App with Multi-Cloud Backend] (https://
+- [Disaster Recovery Simulation] (https://
