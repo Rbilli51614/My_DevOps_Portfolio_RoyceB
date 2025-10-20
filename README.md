@@ -11,7 +11,7 @@ A curated list of hands-on projects demonstrating modern DevOps practices using 
 
 ## Projects
 - [AWS - GCP Infra with Terraform] (https://github.com/Rbilli51614/Multi-Cloud-Iaac.git)
-- [CI/CD Pipeline] (https://
+- [Terraform Modules Library] (https://github.com/Rbilli51614/terraform-modules-library.git)
 - [Kubernetes Cluster & App Deployment] (https://
 - [Observability Stack] (https://
 - [GitOps Workflow] (https://
